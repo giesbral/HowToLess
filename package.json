@@ -1,0 +1,19 @@
+{
+  "name": "how-to-less",
+  "version": "1.0.0",
+  "description": "How-to Guide to Less (with express, express handlebars, and node.js)",
+  "main": "HowToLess.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Giesbrecht",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.2",
+    "express-handlebars": "^2.0.1",
+    "express-session": "^1.11.3",
+    "mysql": "^2.8.0",
+    "less": "^2.7.1"
+  }
+}
